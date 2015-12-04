@@ -12,6 +12,7 @@ namespace PracticeRun
         {
             Console.WriteLine("Practice Run");
             Console.WriteLine("Adding something new.");
+            Console.WriteLine("Here is a change.");
         }
     }
 }
