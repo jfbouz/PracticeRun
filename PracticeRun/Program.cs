@@ -11,6 +11,7 @@ namespace PracticeRun
         static void Main(string[] args)
         {
             Console.WriteLine("Practice Run");
+            Console.WriteLine("Adding something new.");
         }
     }
 }
